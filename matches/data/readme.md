@@ -1,0 +1,1 @@
+# Datos de las partidas por seeds
