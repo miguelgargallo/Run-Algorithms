@@ -2,7 +2,7 @@
 
 ## Arranca el juego de EDA conmo dería ser
 
-<img width="640" alt="Run Algorithms, Arranca el juego de EDA conmo dería ser" src="https://user-images.githubusercontent.com/5947268/205030386-0c6ed5ba-bc10-4392-b98a-7ba27889a745.png">
+<img width="640" alt="Run Algorithms, Arranca el juego de EDA como dería ser" src="https://user-images.githubusercontent.com/5947268/205030386-0c6ed5ba-bc10-4392-b98a-7ba27889a745.png">
 
 ## Como usar este repositorio
 
