@@ -1,6 +1,6 @@
 # Run-Algorithms
 
-Arranca el juego de EDA conmo dería ser
+## Arranca el juego de EDA conmo dería ser
 
 ## Como usar este repositorio
 
