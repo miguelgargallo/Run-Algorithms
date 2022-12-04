@@ -49,6 +49,8 @@ Este es un ejemplo de estructura de archivos, debes de copiar todo en la raíz.
     ├── match11504.pylar  <- Record o console log de la partida 11504
     └── match9410.pylar <- Record o console log de la partida 9410
 ```
+![Pylar-FileSystem-EDA-Game](https://user-images.githubusercontent.com/5947268/205489718-3c5858bd-8eae-4c8e-9ab1-79869831e10a.png)
+
 - - - - - -
 
 You can use this License, down below, or file, License.md as a template for your projects, just use the template or fork! and delete this file and mantain "License.md"
