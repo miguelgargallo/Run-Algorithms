@@ -16,7 +16,7 @@ Es posible que de errores de permiso, tiras de
 
 Y ya debería funcionar.
 
-`ves a auto.sh y cambia los player por los jugadores de las partidas`
+`ves a auto.sh y cambia los player por los jugadores de las partidas, pero no pueden ser ".o" deben ser archivos compilados por nuestra maquina, esta herramienta acepta PR para poder habilitar esta función`
 
 
 ## Realmente para que sirve
