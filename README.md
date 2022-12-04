@@ -16,6 +16,9 @@ Es posible que de errores de permiso, tiras de
 
 Y ya debería funcionar.
 
+`ves a auto.sh y cambia los player por los jugadores de las partidas`
+
+
 ## Realmente para que sirve
 En este caso es un script que te permite jugar al juego de EDA, de forma discreta borrará la consola, para permitir 100% de privacidad en los arranques y mantener todo ordenado.
 
