@@ -1,12 +1,11 @@
 # Run-Algorithms
 
 ## Arranca el juego de EDA como dería ser
+<img width="640" alt="Run Algorithms, Arranca el juego de EDA como dería ser" src="https://user-images.githubusercontent.com/5947268/205030386-0c6ed5ba-bc10-4392-b98a-7ba27889a745.png">
 
 ### Estos son los comandos que he seguido para arrancar el proyecto entero
 
 ![Comandos EDA Game Pylar Miguelgargallo](https://user-images.githubusercontent.com/5947268/205489757-f2d0c6e6-1e63-4ebb-8999-c8a0d1b0600b.png)
-
-<img width="640" alt="Run Algorithms, Arranca el juego de EDA como dería ser" src="https://user-images.githubusercontent.com/5947268/205030386-0c6ed5ba-bc10-4392-b98a-7ba27889a745.png">
 
 ![Run-Algorithms-Screenshot-Demo](https://user-images.githubusercontent.com/5947268/205489689-f2c92e05-1724-41de-8ddb-761329549676.png)
 
